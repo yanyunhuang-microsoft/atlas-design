@@ -1,5 +1,11 @@
 # @microsoft/atlas-site
 
+## 0.42.0
+
+### Minor Changes
+
+- ae05959: Add standardized chat styles
+
 ## 0.41.0
 
 ### Minor Changes
